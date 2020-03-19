@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: if err != nil
+# key: iferr
+# contributor : zhijia.zhang
+# --
+if err != nil {
+  log.Fatal(err)
+}$0
