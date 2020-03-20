@@ -3,7 +3,6 @@
 # key: func
 # contributor : @atotto
 # --
-//
-func ($2) $1() {
+func $1($2) ${3:(${4:error})} {
 	$0
 }
