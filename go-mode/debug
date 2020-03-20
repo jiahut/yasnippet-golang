@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: log.Debug()
+# key: debug
+# contributor : jiahut@gmail.com
+# --
+log.Debug($1)$0

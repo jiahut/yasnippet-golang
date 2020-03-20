@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: fmt.Println()
+# key: fpl
+# contributor : jiahut@gmail.com
+# --
+fmt.Println(${1:"$2"})$0
