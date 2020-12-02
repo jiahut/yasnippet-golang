@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
-# name: func append
+# name: func name(args...) (error)
 # key: func
-# contributor : @atotto
+# contributor : jiahut@gmail.com
 # --
 func $1($2) ${3:(${4:error})} {
 	$0

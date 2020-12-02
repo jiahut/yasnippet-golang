@@ -1,6 +1,6 @@
 # -*- mode: snippet -*-
-# name: fmt.Printf()
+# name: fmt.Printf("%s\n", str)
 # key: fpf
 # contributor : jiahut@gmail.com
 # --
-fmt.Printf("$1", $2)$0
+fmt.Printf("$1\n", $2)$0

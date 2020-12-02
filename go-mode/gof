@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: go func(){  ... }()
+# key: gofunc
+# contributor : jiahut@gmail.com
+# --
+go func($1){
+   $2
+}($3)$0
